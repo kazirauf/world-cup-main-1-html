@@ -1,0 +1,25 @@
+nav ul{
+      border: 3px solid black;
+      border-radius: 10px;
+      background-color: #161616;
+       width: 312px;
+       padding-bottom: 30px;
+}
+nav li{
+     
+      list-style: none;
+      margin-top: 30px;
+      border: 1px solid aqua;
+      background-color:  #FFFFFF;
+      border-radius: 10px;
+      height: 40px;
+      width: 200px;
+      padding-left: 40px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+
+}
+nav li a{
+      text-decoration: none;
+      color: #161616;
+}
